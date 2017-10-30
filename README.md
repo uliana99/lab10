@@ -1,3 +1,4 @@
+![ID](https://img.shields.io/badge/Кошкина-Ульяна-b657b6.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-b657b6.svg)](/LICENSE)
 [![Build Status](https://travis-ci.org/uliana99/lab10.svg?branch=master)](https://travis-ci.org/uliana99/lab10)
 the demo application redirects data from stdin to a file **log.txt** using a package **print**.
 
